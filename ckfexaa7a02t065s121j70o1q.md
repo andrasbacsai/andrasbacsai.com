@@ -76,7 +76,7 @@ I am working with very talented people at CodeSandbox to shape the future of web
 Work on my side-project as much as I can in my free time! 
 > If you would like to follow my journey, follow me on [twitter](https://twitter.com/andrasbacsai).
 
-# Conclusion
+# Lessons learnt
 
 - If you are unhappy with your current job, change.
 - If you feel yourself locked up, change.
