@@ -17,12 +17,12 @@ As everybody does. I have opened some local (Hungarian) job hunting sites. There
 
 I'm an everyday father, not a weekend father - my kids are the most important thing for me. 2-3 hours of commuting each day is a lot. No thanks... nope...
 
-A week later, I realized the nearby jobs were bad. They would presumably have hire me, but I do not want to be 'out of the frying pan into the fire' - I saw countless people doing it. They were jumping in and out of jobs because they are unsatisfied with all of them. 
+A week later, I realized the nearby jobs were bad. They would presumably have hired me, but I do not want to be 'out of the frying pan into the fire' - I saw countless people doing it. They were jumping in and out of jobs because they are unsatisfied with all of them. 
 
 They thought it would be super awesome to work for another large company, but 'money doesn't grow on trees' there either, or as we say this in Hungarian (raw translation), 'the fence isn't of sausage.'
 
 # Think before act.
-Before you jump into your next opportunity, start imagining the kind of job you favor. Write down all requirements you would like to have in your next job, like I did:
+Before you jump into your next opportunity, start imagining the kind of job you favor. Write down all requirements you would like to have in your next job like I did:
 
 1. I do **not** want to:
   - Travel to a different city.
@@ -68,7 +68,7 @@ Next. CodeSandbox, which was a huge success. They reached out to me days after I
 
 # How did I achieve the huge success?
 
-If you are in an interview, you need to promote yourself. The interviewer needs to  buy you, so you have to sell yourself - sounds a bit weird, but it's true. You need to show them what you are, as a person and as a coder. 
+If you are in an interview, you need to promote yourself. The interviewer needs to buy you, so you have to sell yourself - sounds a bit weird, but it's true. You need to show them what you are, as a person and as a coder. 
 
 I sold them my [side-projects](https://andrasbacsai.com/reboot-my-side-project) - not factually. I showed what I've done in my free time and explained how I was thinking during development. The most attractive part for them was one ancient project, resting in the shadows of my Github account. 
 
