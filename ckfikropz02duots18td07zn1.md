@@ -70,13 +70,13 @@ Next. CodeSandbox, which was a huge success. They reached out to me days after I
 
 If you are in an interview, you need to promote yourself. The interviewer needs to buy you, so you have to sell yourself - sounds a bit weird, but it's true. You need to show them what you are, as a person and as a coder. 
 
-I sold them my [side-projects](https://andrasbacsai.com/reboot-my-side-project) - not factually. I showed what I've done in my free time and explained how I was thinking during development. The most attractive part for them was one ancient project, resting in the shadows of my Github account. 
+I showed them my [side-projects](https://andrasbacsai.com/reboot-my-side-project). I showed what I've done in my free time and explained how I was thinking during development. The most attractive part for them was one ancient project, resting in the shadows of my Github account. 
 
 It was an online coding environment (just like CodeSandbox)- what a coincidence. Guess what happened? 
 
 Ives, one of the founders of CodeSandbox, loved it. And probably that was one of the main reasons they hired me. 
 
-They were looking for a person with Kubernetes skills. I only had very, VERY limited knowledge of it, but still got the job (only 10%, remember). I showed them I'm capable of learning anything very efficiently. That was the other reason they hired me. 
+They were looking for a person with Kubernetes skills. I only had tiny knowledge of it, but still got the job, because I showed them I'm capable of learning anything very efficiently. That was the other reason they hired me. 
 
 No magic involved.
  
