@@ -12,7 +12,7 @@ Even though I have a family of four and the fact that I love to be with them, I 
 (Which is a very rare situation nowadays; thanks pandemic 👏 😁)
 
 ### Why I don't have IRL friends?
-(IRL means you can often meet in real life; I have some friends online - do not count COVID; I have no friends for ~5 years now)
+(IRL means you can often meet in real life; I have some friends online but had no IRL friends for ~5 years now)
 
 > Small context: I had a family way earlier than them. Prioritization changed ofc. I was home office for years before this COVID thing, so I could be part of my children's daily lives, see them grow up, etc. They are my life.
 
