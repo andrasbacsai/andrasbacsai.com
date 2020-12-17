@@ -53,7 +53,8 @@ This example has a JWT based authentication, guarded endpoints in the backend an
 
 ## +1 
 
-You can try it: https://codesandbox.io/s/svelte-fastify-starter-ku9d9
+You can try it in Codesandbox (and even develop a full application in it!):
+ https://codesandbox.io/s/svelte-fastify-starter-ku9d9
 
 (The initial ES build takes a while, but after that, it's super fast)
 
